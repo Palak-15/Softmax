@@ -10,4 +10,4 @@ $ pip install numpy
 $ pip install matplotlib
 ```
 Inline-style: 
-![alt text](https://github.com/Palak-15/Gender_classifier/blob/master/Figure1.png "Graph")
+![alt text](https://github.com/Palak-15/Softmax/blob/master/Figure1.png "Graph")
